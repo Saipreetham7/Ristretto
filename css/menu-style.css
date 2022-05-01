@@ -1,0 +1,225 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+
+.row{
+    margin: 0;
+}
+
+.logo img{
+    height: 80px;
+    vertical-align: middle;
+}
+
+.logo h1{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 23px;
+    color: white;
+}
+
+.navlist li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.navlist a{
+    text-decoration: none;
+    padding: 30px 30px;
+    position: relative;
+    top: 30px;
+    font-size: 1rem;
+    color: white;
+    font-family: Oswald,sans-serif;
+    font-weight: 700;
+}
+
+.fa-mug-hot{
+    padding-right: 10px;
+}
+
+.navlist a:hover{
+    color: burlywood;
+}
+
+.menu-head{
+    filter: brightness(70%);
+    width: 100%;
+}
+
+.Bg-head{
+    position: absolute;
+    top: 30%;
+    color: white;
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Bg-head h2{
+    font-weight: 700;
+    font-family: Oswald, sans-serif;
+}
+
+.Bg-head p{
+    color: burlywood;
+}
+
+.coffee-head{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.coffee-head h2{
+    display: inline-block;
+}
+
+.underline{
+    letter-spacing: -1px;
+    color: burlywood;
+}
+
+svg{
+    transform: rotate(180deg);
+    position: absolute;
+}
+
+.menu-white{
+    text-align: center;
+    width: 85%;
+    margin: 6rem auto;
+}
+
+
+.div-underline{
+    background-color: burlywood;
+    height: 4px;
+    width: 150px;
+    margin: 0 auto 30px;
+}
+
+.menu-black .div-underline{
+    background-color: #CE9461;
+}
+
+.card{
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.card-img-top{
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    border-radius: 100px;
+}
+
+
+.menu-black{
+    background-color: burlywood;
+    text-align: center;
+    padding: 50px 110px 90px;
+}
+
+.menu-black h1{
+    color: white;
+}
+
+.menu-black h1, .menu-white h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* Footer Section */
+footer{
+    background-color: #383838;
+    padding-top: 80px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-sec1{
+    padding-left: 40px;
+}
+
+
+.footer-sec1 h4{
+    font-weight: 700;
+}
+
+.footer-sec1 p{
+    margin-bottom: 4px;
+}
+
+.footer-sec1 p a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+.footer-sec1 hr{
+    width: 200px;
+}
+
+.footer-sec2{
+    text-align: center;
+}
+
+.footer-sec2 img{
+    width: 250px;
+}
+
+
+.social-icons{
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer-rights{
+    text-align: center;
+}
+
+.sicons{
+    padding: 10px;
+}
+
+.sicons:hover{
+    color: burlywood;
+}
+
+.footer-tag{
+    font-family: Oswald,sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.map{
+    width: 100%;
+    padding: 0 30px;
+}
+
+.footer-sec3 ul{
+    list-style: none;
+    padding-top: 30px;
+    font-weight: 600;
+}
+
+
+
+
+
