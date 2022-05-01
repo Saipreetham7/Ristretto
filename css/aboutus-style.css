@@ -1,0 +1,46 @@
+/* about us */
+.bgText {
+  position: absolute;
+  top: 45%;
+  text-transform: uppercase;
+  font-family: Oswald, sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  color: white;
+  width: 605.425px;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.aboutus {
+  background: white;
+}
+
+.abtlogo {
+  padding-left: 50px;
+}
+
+.abtext {
+  padding: 50px;
+}
+
+h1 .abtext {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.vl {
+  color: #B58260;
+  font-size: 60px;
+}
+
+.rrr {
+  font-size: 30px;
+  font-style: italic;
+}
+
+.about-icons {
+  text-align: left;
+  font-size: 20px;
+  color: #757575;
+}
