@@ -53,7 +53,7 @@ header {
 
 .bgImg {
   width: 100%;
-  filter: brightness(40%);
+  filter: brightness(60%);
   overflow-x: hidden;
 }
 
